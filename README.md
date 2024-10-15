@@ -35,6 +35,9 @@ Sales Representatives: Contains information on sales team members, their hiring 
 Products: Contains product details, including descriptions.
 Sales: Stores data on individual sales, subscription costs, and contract dates.
 
+![ERD](ERD.png)
+
+
 ## Tableau Visualization
 
 You can explore the visual representation of the sales analysis on my Tableau Public profile:  
